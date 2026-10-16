@@ -1,0 +1,4 @@
+Build de produção: aprovado
+TypeScript: aprovado
+Links e imagens dos 34 HTML compilados: aprovados
+QA visual/interativa em navegador: não realizada neste ambiente.
